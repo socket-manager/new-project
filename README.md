@@ -57,5 +57,7 @@ TCP         127.0.0.1:10000        0.0.0.0:0              LISTENING       21536
 詳しい連携方法は<a href="https://socket-manager.github.io/document/laravel.html" target="_blank">こちら</a>をご覧ください。
 
 ## Contact Us
-
 バグ報告やご要望などは<a href="mailto:lib.tech.engineer@gmail.com">`こちら`</a>から受け付けております。
+
+## License
+MIT, see <a href="https://github.com/socket-manager/new-project/blob/main/LICENSE">LICENSE file</a>.
