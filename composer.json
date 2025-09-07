@@ -1,8 +1,17 @@
 {
     "name": "socket-manager/new-project",
-    "description": "New Project",
+    "description": "NEW-PROJECT on SOCKET-MANAGER Framework",
     "type": "project",
     "license": "MIT",
+    "keywords": [
+        "php",
+        "socket-server",
+        "tcp-socket",
+        "udp-socket",
+        "project-repository",
+        "runtime",
+        "socket-manager"
+    ],
     "autoload": {
         "psr-4": {
             "App\\": "app/"
@@ -16,7 +25,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "socket-manager/library": "~1.16.0"
+        "socket-manager/library": "~1.17.0"
     },
     "repositories": {
         "socket-manager/library": {
