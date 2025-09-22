@@ -1,6 +1,6 @@
 {
     "name": "socket-manager/new-project",
-    "description": "NEW-PROJECT on SOCKET-MANAGER Framework",
+    "description": "NEW-PROJECT: 新規開発環境プロジェクト",
     "type": "project",
     "license": "MIT",
     "keywords": [
@@ -25,7 +25,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "socket-manager/library": "~1.17.0"
+        "socket-manager/library": "~1.19.0"
     },
     "repositories": {
         "socket-manager/library": {
