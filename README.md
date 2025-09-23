@@ -1,4 +1,4 @@
-# NEW-PROJECT on SOCKET-MANAGER Framework
+# NEW-PROJECT：新規開発環境プロジェクト
 NEW-PROJECT は SOCKET-MANAGER Framework を使ったソケット通信サーバーの新規プロジェクト開発テンプレートです。  
 主に TCP/UDP ソケット通信、カスタムプロトコル、ビジネスロジックを PHP で開発するための環境と雛形を提供します。Laravel との連携も可能です。
 
